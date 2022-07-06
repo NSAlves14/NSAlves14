@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style='display: flex; justify-content:center'>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nsalves14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true?x=1"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsalves14&layout=compact&langs_count=7&theme=dracula&x=1"/>-->
 </div>
